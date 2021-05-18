@@ -29,7 +29,7 @@
         "channel": "1.20.x"
       },
       {"name": "master"},
-      {"name": "develop", "channel": "next"},
+      {"name": "develop", "channel": "next"}
     ],
     "plugins": [
       "@semantic-release/commit-analyzer",
