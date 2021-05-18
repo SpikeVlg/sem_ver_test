@@ -33,9 +33,12 @@
     "plugins": [
       "@semantic-release/commit-analyzer",
       "@semantic-release/release-notes-generator",
-      {
-        "changelogFile": "CHANGELOG.md"
-      },
+      [
+        "@semantic-release/changelog",
+        {
+          "changelogFile": "CHANGELOG.md"
+        }
+      ],
       [
         "@semantic-release/git",
         {
@@ -43,7 +46,8 @@
             "dist/**/*.{js,css}",
             "docs",
             "package.json",
-            "README.md"
+            "README.md",
+            "CHANGELOG.md"
           ],
           "message": "chore(release): ${nextRelease.version} [skip ci]\n\n${nextRelease.notes}"
         }
