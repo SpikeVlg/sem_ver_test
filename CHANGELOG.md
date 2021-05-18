@@ -1,3 +1,10 @@
+# [1.20.0](https://github.com/SpikeVlg/sem_ver_test/compare/v1.19.0...v1.20.0) (2021-05-18)
+
+
+### Features
+
+* **fix:** add branches to release ([479bea4](https://github.com/SpikeVlg/sem_ver_test/commit/479bea4780ba60d1ea55b496dcf34e6d85ba954b))
+
 # [1.19.0](https://github.com/SpikeVlg/sem_ver_test/compare/v1.18.0...v1.19.0) (2021-05-18)
 
 
