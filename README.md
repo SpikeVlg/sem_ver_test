@@ -20,8 +20,5 @@ npx semantic-release --ci=false --debug=true --dry-run=true
 2. Need to specify npm registry
 
 
-<<<<<<< HEAD
 
-
-=======
->>>>>>> 86d4cf542d51bc0c4eb4b13e388e5f5f277534a3
+a new commit
