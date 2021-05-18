@@ -26,6 +26,8 @@
       "main"
     ],
     "dryRun": true,
+
+    
     "ci": false,
     "debug": true,
     "plugins": [
