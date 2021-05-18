@@ -1,3 +1,10 @@
+# [1.21.0](https://github.com/SpikeVlg/sem_ver_test/compare/v1.20.0...v1.21.0) (2021-05-18)
+
+
+### Features
+
+* **test:** check ([89e3a8b](https://github.com/SpikeVlg/sem_ver_test/commit/89e3a8b219f13bd93e9471b35e07ba3d26564726))
+
 # [1.20.0](https://github.com/SpikeVlg/sem_ver_test/compare/v1.19.0...v1.20.0) (2021-05-18)
 
 
