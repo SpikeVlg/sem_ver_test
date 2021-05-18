@@ -1,3 +1,10 @@
+# [1.19.0](https://github.com/SpikeVlg/sem_ver_test/compare/v1.18.0...v1.19.0) (2021-05-18)
+
+
+### Features
+
+* **remove:** remove ([041e4ed](https://github.com/SpikeVlg/sem_ver_test/commit/041e4edaee1b9ce795a3b71c5decfa316d198c96))
+
 # [1.18.0](https://github.com/SpikeVlg/sem_ver_test/compare/v1.17.0...v1.18.0) (2021-05-18)
 
 
