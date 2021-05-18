@@ -19,4 +19,3 @@ npx semantic-release --ci=false --debug=true --dry-run=true
 1. Need to specify git url - can't work locally
 2. Need to specify npm registry
 
-
