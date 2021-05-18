@@ -12,6 +12,8 @@ npm install @semantic-release/git -D
 npx semantic-release-cli setup
 npx semantic-release
 
+npx semantic-release --ci=false --debug=true --dry-run=true
+
 
 # Drawbacks
 1. Need to specify git url - can't work locally
