@@ -7,6 +7,7 @@ npm install --save-dev semantic-release
 
 
 npm install @semantic-release/git -D
+npm install @semantic-release/changelog -D
 
 
 npx semantic-release-cli setup
