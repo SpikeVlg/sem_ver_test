@@ -23,8 +23,13 @@
   },
   "release": {
     "branches": [
-      "main",
-      "release/\\d+\\.\\d+\\.x"
+      {
+        "name": "release/1.20.x", 
+        "range": "1.20.x",
+        "channel": "1.20.x"
+      },
+      {"name": "master"},
+      {"name": "next", "channel": "next"},
     ],
     "plugins": [
       "@semantic-release/commit-analyzer",
