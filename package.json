@@ -23,7 +23,8 @@
   },
   "release": {
     "branches": [
-      "main"
+      "main",
+      "release/\\d+\\.\\d+\\.x"
     ],
     "plugins": [
       "@semantic-release/commit-analyzer",
