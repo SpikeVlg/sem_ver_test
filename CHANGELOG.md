@@ -1,3 +1,16 @@
+# [1.22.0](https://github.com/SpikeVlg/sem_ver_test/compare/v1.21.0...v1.22.0) (2021-05-18)
+
+
+### Bug Fixes
+
+* **err:** err ([97b1e92](https://github.com/SpikeVlg/sem_ver_test/commit/97b1e92bd4ed10d37bfbdb384bf49dd477a6a41d))
+
+
+### Features
+
+* **test:** check ([ec48ee3](https://github.com/SpikeVlg/sem_ver_test/commit/ec48ee3170e7a7bad1a1d13ee1068c134c5b6c15))
+* **update:** update config ([73d5eb8](https://github.com/SpikeVlg/sem_ver_test/commit/73d5eb85df2501bc0996dfb5ef54df3d778cbebf))
+
 # [1.21.0](https://github.com/SpikeVlg/sem_ver_test/compare/v1.20.0...v1.21.0) (2021-05-18)
 
 
