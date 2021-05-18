@@ -29,7 +29,7 @@
       "@semantic-release/commit-analyzer",
       "@semantic-release/release-notes-generator",
       {
-        "changelogFile": "docs/CHANGELOG.md"
+        "changelogFile": "CHANGELOG.md"
       },
       [
         "@semantic-release/git",
