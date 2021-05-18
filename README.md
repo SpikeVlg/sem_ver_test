@@ -24,3 +24,4 @@ npx semantic-release --ci=false --debug=true --dry-run=true
 a new commit
 another commit
 third commit
+aaa
