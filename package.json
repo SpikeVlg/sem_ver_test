@@ -24,9 +24,6 @@
     "branches": [
       "main"
     ],
-    "dryRun": true,
-    "ci": false,
-    "debug": true,
     "plugins": [
       "@semantic-release/commit-analyzer",
       "@semantic-release/release-notes-generator",
